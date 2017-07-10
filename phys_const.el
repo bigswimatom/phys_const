@@ -1,9 +1,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;
 ;;;  phys_const.el -- 
-;;;	author: nakai <nakai@mcl.chem.tohoku.ac.jp>
+;;;	author: nakai <bigswim.atom@gmail.com>
 ;;;	create day  : Mon Jun  7 23:30:39 2004
-;;;     last updated: Mon May 15 16:25:52 2017
+;;;     last updated: Mon Jul 10 09:47:19 2017
 ;;;     $Log: phys_const.el,v $
 ;;;     Revision 1.1  2004/10/26 14:48:21  nakai
 ;;;     ファイル追加．
